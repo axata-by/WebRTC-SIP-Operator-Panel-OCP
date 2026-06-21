@@ -1,0 +1,4 @@
+# Укажите GitHub-команду с правом approve (пример):
+# * @axata-by/maintainers
+#
+# Пока команда не создана — branch protection работает через required_approving_review_count.
